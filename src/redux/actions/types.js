@@ -1,0 +1,7 @@
+/*Fetch custom general*/
+export const CONFIG_INICIAL = 'CONFIG_INICIAL'
+export const CONFIG_RADIO = 'CONFIG_RADIO'
+export const CONFIG_BANNER = 'CONFIG_BANNER'
+export const CONFIG_NOAR = 'CONFIG_NOAR'
+export const CONFIG_RADIO_PLAY_STATUS = 'CONFIG_RADIO_PLAY_STATUS'
+
